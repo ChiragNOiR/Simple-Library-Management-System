@@ -1,0 +1,3 @@
+Brooklyn,Colm Toibin,2,$4.0
+Troubles,J G Farrell,10,$1.5
+Milkman,Anna Burns,10,$4.5
